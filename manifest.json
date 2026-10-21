@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "sanic-org",
+  "repo": "discord-bot",
+  "versions": [
+    {
+      "commit": "2898bfd1e7cc8cecfa5b69f05f3378c8237ef6c8",
+      "parsed_at": "2026-10-21T02:50:09.910994+00:00",
+      "filetree": "filetree/2898bfd1e7cc8cecfa5b69f05f3378c8237ef6c8.nq.gz",
+      "blobs": [
+        "blob/81d1b6a9f7c038f10bf58104ebc819a2a6a71c8e.nq.gz",
+        "blob/07bcb1dd334fa5d1153b720e575b24b28af864ee.nq.gz",
+        "blob/453cc0d7672443261c2cee2b15bea79cd10c6821.nq.gz",
+        "blob/b3ab099d1908bd336db5d62fc77d34cf90379639.nq.gz",
+        "blob/fb5e9583b51b40ab9bfc95b90ba80068d19db328.nq.gz",
+        "blob/dd4b85487e56e0aa8d3753929fa786f45c6a736f.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/07078a559069849a18c81623dee8fa1fc2cba5a0.nq.gz",
+        "blob/61a63366751112b951868e894647432e38f2ee93.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
